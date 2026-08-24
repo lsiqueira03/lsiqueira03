@@ -1,16 +1,59 @@
-## Hi there 👋
+# Olá! Eu sou Leandro Siqueira 👋
 
-<!--
-**lsiqueira03/lsiqueira03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 Sobre mim
 
-Here are some ideas to get you started:
+Sou estudante do curso Técnico em Desenvolvimento de Sistemas e estou iniciando minha jornada na área de tecnologia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente, estou aprendendo conceitos de programação e desenvolvimento de sistemas, buscando melhorar meus conhecimentos a cada atividade e projeto.
+
+Tenho interesse em aprender novas tecnologias e colocar em prática o que estou estudando.
+
+---
+
+### 🚀 Tecnologias que estou estudando
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>
+</p>
+
+- 🐍 Python
+- 🌐 HTML
+- 🎨 CSS
+
+---
+
+### 📚 Atualmente estudando
+
+- Lógica de programação
+- Python
+- Desenvolvimento Web
+- HTML e CSS
+- Git e GitHub
+- Desenvolvimento de sistemas
+
+---
+
+### 📫 Contato
+
+<p align="left">
+  <a href="SEU_LINK_DO_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+
+  <a href="mailto:SEU_EMAIL">
+    <img src="https://img.shields.io/badge/Gmail-Contato-red?style=for-the-badge&logo=gmail" alt="Gmail"/>
+  </a>
+</p>
+
+---
+
+### 🎯 Meu objetivo
+
+Continuar aprendendo, desenvolver meus conhecimentos em programação e conquistar experiência para atuar profissionalmente na área de Desenvolvimento de Sistemas.
+
+---
+
+⭐ Obrigado pela visita ao meu perfil!
+
