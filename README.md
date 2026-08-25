@@ -38,12 +38,12 @@ Tenho interesse em aprender novas tecnologias e colocar em prática o que estou 
 ### 📫 Contato
 
 <p align="left">
-  <a href="SEU_LINK_DO_LINKEDIN">
+  <a href="https://www.linkedin.com/in/leandro-siqueira-81866916a?utm_source=share_via&utm_content=profile&utm_medium=member_android">
     <img src="https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
 
-  <a href="mailto:SEU_EMAIL">
-    <img src="https://img.shields.io/badge/Gmail-Contato-red?style=for-the-badge&logo=gmail" alt="Gmail"/>
+  <a href="mailto:leandro-ss18@hotmail.com">
+    <img src="https://img.shields.io/badge/Hotmail-Contato-red?style=for-the-badge&logo=Hotmail" alt="Hotmail"/>
   </a>
 </p>
 
