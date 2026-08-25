@@ -43,7 +43,7 @@ Tenho interesse em aprender novas tecnologias e colocar em prática o que estou 
   </a>
 
   <a href="mailto:SEU_EMAIL">
-    <img src="https://img.shields.io/badge/Gmail-Contato-red?style=for-the-badge&logo=gmail" alt="Gmail"/>
+    <img src="leandro-ss18@hotmail.com"/>
   </a>
 </p>
 
