@@ -43,9 +43,8 @@ Tenho interesse em aprender novas tecnologias e colocar em prática o que estou 
   </a>
 
   <a href="https://outlook.live.com/mail/">
-    <img src="https://img.shields.io/badge/Email-Contato-red?style=for-the-badge&logo=microsoftoutlook" alt="E-mail"/>
-  </a>
-  
+    <img src="https://img.shields.io/badge/Email-Contato-red?style=for-the-badge&logo=microsoftoutlook" alt="leandro-ss18@hotmail.com"/>
+  </a> 
 </p>
 
 
