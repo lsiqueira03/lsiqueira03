@@ -42,11 +42,9 @@ Tenho interesse em aprender novas tecnologias e colocar em prática o que estou 
     <img src="https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
 
-  <a href="https://outlook.live.com/mail/0/deeplink/compose?to=leandro-ss18@hotmail.com">
-    <img src="https://img.shields.io/badge/Email-Contato-red?style=for-the-badge&logo=microsoftoutlook" alt="E-mail"/>
-  </a>
-
-</p>
+  <a href="https://outlook.live.com/mail/0/deeplink/compose?to=leandro-ss18@hotmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-Contato-red?style=for-the-badge&logo=microsoftoutlook" alt="E-mail"/>
+</a>
 
 
 ---
