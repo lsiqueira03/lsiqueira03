@@ -57,24 +57,4 @@ Continuar aprendendo, desenvolver meus conhecimentos em programação e conquist
 
 ---
 
-⭐ Obrigado pela visita ao meu perfil!Desenvolvimento de Sistemas.
-
----
-
-### 📫 Entre em contato
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/leandro-siqueira-81866916a">
-    <img src="https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-  </a>
-
-  <a href="mailto:leandro-ss18@hotmail.com">
-    <img src="https://img.shields.io/badge/Email-Contato-red?style=for-the-badge&logo=microsoftoutlook" alt="E-mail"/>
-  </a>
-</p>
-
----
-
-⭐ Obrigado por visitar meu perfil!
-
-🚀 Em constante aprendizado e evolução.
+⭐ Obrigado pela visita ao meu perfil!
