@@ -1,0 +1,31 @@
+consumo-energia/
+│
+├── app.py
+└── README.md
+🐙 Git e GitHub
+
+O projeto foi organizado utilizando Git para controle de versão e publicado no GitHub para facilitar o acesso e a avaliação.
+
+Commit inicial
+feat: versão inicial (app.py e README)
+🚀 Publicação
+
+O repositório deve estar configurado como público, permitindo que o projeto seja acessado pelo professor.
+
+🔗 Link do repositório:
+COLE_AQUI_O_LINK_DO_SEU_REPOSITÓRIO
+
+📊 Critérios do projeto
+Critério	Descrição
+⚙️ Funcionalidade	Cálculo do consumo elétrico
+🌳 Estrutura Git	Projeto versionado com Git
+📝 Documentação	README com informações do projeto
+🐙 Publicação	Repositório público no GitHub
+👨‍💻 Autor
+
+Leandro Siqueira
+
+🎓 Técnico em Desenvolvimento de Sistemas
+
+⚡ Calculadora de Consumo Elétrico
+🐍 Desenvolvido com Python | 🐙 GitHub | ⚡ Energia
