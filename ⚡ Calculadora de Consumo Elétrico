@@ -1,31 +1,36 @@
-consumo-energia/
-│
-├── app.py
-└── README.md
-🐙 Git e GitHub
+# ==========================================
+# CALCULADORA DE CONSUMO ELÉTRICO
+# ==========================================
 
-O projeto foi organizado utilizando Git para controle de versão e publicado no GitHub para facilitar o acesso e a avaliação.
+print("==========================================")
+print("     CALCULADORA DE CONSUMO ELÉTRICO")
+print("==========================================")
 
-Commit inicial
-feat: versão inicial (app.py e README)
-🚀 Publicação
+# Entrada de dados
+aparelho = input("Digite o nome do aparelho: ")
 
-O repositório deve estar configurado como público, permitindo que o projeto seja acessado pelo professor.
+potencia = float(
+    input("Digite a potência do aparelho em watts (W): ")
+)
 
-🔗 Link do repositório:
-COLE_AQUI_O_LINK_DO_SEU_REPOSITÓRIO
+horas_dia = float(
+    input("Digite o tempo médio de uso diário (em horas): ")
+)
 
-📊 Critérios do projeto
-Critério	Descrição
-⚙️ Funcionalidade	Cálculo do consumo elétrico
-🌳 Estrutura Git	Projeto versionado com Git
-📝 Documentação	README com informações do projeto
-🐙 Publicação	Repositório público no GitHub
-👨‍💻 Autor
+# Cálculo do consumo mensal
+consumo_mensal = (potencia * horas_dia * 30) / 1000
 
-Leandro Siqueira
+# Cálculo do custo estimado
+valor_kwh = 0.75
+custo_mensal = consumo_mensal * valor_kwh
 
-🎓 Técnico em Desenvolvimento de Sistemas
+# Exibição dos resultados
+print("\n==========================================")
+print("                 RESULTADO")
+print("==========================================")
 
-⚡ Calculadora de Consumo Elétrico
-🐍 Desenvolvido com Python | 🐙 GitHub | ⚡ Energia
+print(f"Aparelho: {aparelho}")
+print(f"Consumo estimado: {consumo_mensal:.2f} kWh/mês")
+print(f"Custo estimado: R$ {custo_mensal:.2f} por mês")
+
+print("==========================================")
